@@ -1,0 +1,30 @@
+.text-1 {
+  font-size: 15px;
+  margin-left: 27px;
+  color: #434242b6;
+}
+.input {
+  width: 320px;
+  margin: auto;
+}
+.text-img-custom {
+  font-size: 13px;
+}
+.opacity {
+  opacity: 0.9;
+}
+.container-down {
+  height: auto;
+}
+.font-size-1 {
+  font-size: 14px;
+}
+.border-top {
+  width: auto;
+}
+.password {
+  margin-top: 120px;
+}
+.search {
+  height: 40px;
+}
