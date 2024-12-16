@@ -28,3 +28,14 @@
 .search {
   height: 40px;
 }
+
+.bk{
+  border: solid 3px red;
+}
+.font-small{
+  font-size: 15px;
+}
+
+.btn-outline-dark{
+  background-color:#f3efefc6;
+}
